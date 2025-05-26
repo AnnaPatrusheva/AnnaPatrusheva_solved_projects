@@ -5,4 +5,4 @@ Here is the list of training projects with short descriptions:
 | --- | --- | --- |
 | `Real estate` | Research of prices for apartments in Saint Petersburg by the listings archive | pandas, matplotlib |
 | `Fast go` | Scooter rental service user data analysis | pandas, matplotlib, scipy |
-| `tbd` | tbd | tbd |
+| `Games research` | Analysis of historical data on game sales, their ratings, game genres and platforms for them. Identification of patterns that determine the success of a game | pandas, matplotlib, scipy, numpy, math, plotly |
