@@ -3,5 +3,6 @@ Greetings! My name is Anna Patrusheva and in this repository I share my solution
 Here is the list of training projects with short descriptions:
 | Project's theme | Description | Libraries |
 | --- | --- | --- |
-| `Real estate` | List all *new or modified* files | pandas, matplotlib |
-| `git diff` | Show file differences that **haven't been** staged |
+| `Real estate` | Research of prices for apartments in Saint Petersburg by the listings archive | pandas, matplotlib |
+| `Fast go` | Scooter rental service user data analysis | pandas, matplotlib, scipy |
+| `tbd` | tbd | tbd |
